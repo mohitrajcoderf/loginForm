@@ -10,6 +10,7 @@ margin: 0 auto;
 display: flex;
 justify-content: center;
 align-items: center;
+gap: 48px;
 }
 #card{
     width: 350px;
